@@ -73,7 +73,7 @@ Emerging Technologies Matter:
 Companies hiring for Rust, AI, and Streaming Analytics show a shift towards real-time data processing, AI-driven analytics, and new programming paradigms.
 Example: "Rust Data Engineer" at Understanding Recruitment ($225,000) and "Event Streaming and Real-Time Analytics" role at LTK ($235,000).
 
-[Top Paying Roles](assets\top_paying_jobs.PNG)
+![Top Paying Roles](assets\top_paying_jobs.PNG)
 
 *Bar graph visualizing the salary for the top 20 salaries for data engineering; ChatGPT generated this graph from my SQL results*
 # Key Takeaways
